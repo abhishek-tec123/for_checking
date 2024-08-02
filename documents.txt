@@ -1,0 +1,29 @@
+Document:
+A bunch of scientists bring back dinosaurs and mayhem breaks loose
+Metadata:
+{"year": 1993, "rating": 7.7, "genre": "science fiction"}
+
+Document:
+Leo DiCaprio gets lost in a dream within a dream within a dream within a ...
+Metadata:
+{"year": 2010, "director": "Christopher Nolan", "rating": 8.2}
+
+Document:
+A psychologist / detective gets lost in a series of dreams within dreams within dreams and Inception reused the idea
+Metadata:
+{"year": 2006, "director": "Satoshi Kon", "rating": 8.6}
+
+Document:
+A bunch of normal-sized women are supremely wholesome and some men pine after them
+Metadata:
+{"year": 2019, "director": "Greta Gerwig", "rating": 8.3}
+
+Document:
+Toys come alive and have a blast doing so
+Metadata:
+{"year": 1995, "genre": "animated"}
+
+Document:
+Three men walk into the Zone, three men walk out of the Zone
+Metadata:
+{"year": 1979, "director": "Andrei Tarkovsky", "genre": "science fiction", "rating": 9.9}

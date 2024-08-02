@@ -1,0 +1,22 @@
+[
+    {
+        "name": "genre",
+        "description": "The genre of the movie",
+        "type": "string or list[string]"
+    },
+    {
+        "name": "year",
+        "description": "The year the movie was released",
+        "type": "integer"
+    },
+    {
+        "name": "director",
+        "description": "The name of the movie director",
+        "type": "string"
+    },
+    {
+        "name": "rating",
+        "description": "A 1-10 rating for the movie",
+        "type": "float"
+    }
+]
